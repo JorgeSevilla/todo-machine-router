@@ -22,7 +22,8 @@ function TodoForm({ addTodo, setOpenModal }) {
       <textarea
         value={newTodoValue}
         onChange={onChange}
-        placeholder="Cortar la cebolla oara el almuerzo"
+        placeholder="Adicione una tarea "
+        required
       />
       <div className="TodoForm-buttonContainer">
         <button
