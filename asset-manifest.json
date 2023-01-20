@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JorgeSevilla/todo-machine-router/static/css/main.3147b846.css",
+    "main.js": "/JorgeSevilla/todo-machine-router/static/js/main.53246613.js",
+    "index.html": "/JorgeSevilla/todo-machine-router/index.html",
+    "static/media/delete.svg": "/JorgeSevilla/todo-machine-router/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/edit.svg": "/JorgeSevilla/todo-machine-router/static/media/edit.2f94fa4986fa2032de8e0f7be45de5fa.svg",
+    "static/media/check.svg": "/JorgeSevilla/todo-machine-router/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.3147b846.css.map": "/JorgeSevilla/todo-machine-router/static/css/main.3147b846.css.map",
+    "main.53246613.js.map": "/JorgeSevilla/todo-machine-router/static/js/main.53246613.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3147b846.css",
+    "static/js/main.53246613.js"
+  ]
+}
